@@ -25,4 +25,4 @@
 
 <div align=center>
 
-<h1> ${\color{#FFE5F3}Sei is my number 1 opp}$</h1>
+<h1> ${\color{#FFE5F3}Sei}$ ${\color{#FFE5F3}is}$ ${\color{#FFE5F3}my}$ ${\color{#FFE5F3}number}$ ${\color{#FFE5F3}one}$ ${\color{#FFE5F3}opp}$ <h1>
