@@ -8,5 +8,6 @@
 
 <img src="https://github.com/user-attachments/assets/3347fdb6-47cc-46e2-a948-4e7cec6ca213" width="700" height="400"/>
 
+<div align=right>
 
-
+<h1>${\color{#8AD0FF}‎ . ݁⋆ ۶ She/Her ৎ ݁˖ . ݁}$</h1>
