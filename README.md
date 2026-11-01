@@ -4,7 +4,8 @@
 
 <h1>${\color{#FFE5F3}˚₊‧꒰১ K4tt ໒꒱ ‧₊˚}$</h1>
 
-<div align=center>
+<img src="https://github.com/user-attachments/assets/245c0428-e02d-4e15-99f2-dee5563222dd" width="20%" />
+
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -23,6 +24,6 @@
   </tr>
 </table>
 
-<div align=center>
+<h1> ${\color{#FFE5F3}Sei}$ ${\color{#FFE5F3}is}$ ${\color{#FFE5F3}my}$ ${\color{#FFE5F3}number}$ ${\color{#FFE5F3}one}$ ${\color{#FFE5F3}opp.}$ <h1>
 
-<h1> ${\color{#FFE5F3}Sei}$ ${\color{#FFE5F3}is}$ ${\color{#FFE5F3}my}$ ${\color{#FFE5F3}number}$ ${\color{#FFE5F3}one}$ ${\color{#FFE5F3}opp}$ <h1>
+<img src="https://github.com/user-attachments/assets/f2505048-f4d8-44aa-b038-e89bf38e2d41" />
