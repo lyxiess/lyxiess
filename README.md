@@ -1,10 +1,10 @@
-/><div align=center>
+<div align=center>
   
 <img src="https://github.com/user-attachments/assets/f2505048-f4d8-44aa-b038-e89bf38e2d41" />
 
 <h1>${\color{#FFE5F3}˚₊‧꒰১ K4tt ໒꒱ ‧₊˚}$</h1>
 
-<img src="https://github.com/user-attachments/assets/245c0428-e02d-4e15-99f2-dee5563222dd" width="20%" />
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%230d1117&border=false&lines=%5B%7B%22text%22%3A%22I+%E2%99%A1+Z.%E1%90%9F%22%2C%22font%22%3A%22Coronet%22%2C%22color%22%3A%22%23ffc2e2%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22+%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90%E2%9D%A4%EF%B8%8E%E0%BB%92%EA%92%B1+%E2%80%A7%E2%82%8A%22%2C%22font%22%3A%22Cursive%22%2C%22color%22%3A%22%23ffc2e2%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.06666666666666667%7D%5D" alt="Typing SVG" /></a>
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
