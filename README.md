@@ -1,4 +1,4 @@
-<img width="450" height="150" alt="typing-svg" src="https://github.com/user-attachments/assets/0d0e549e-af47-44ff-b727-f27d50ffdac8" /><div align=center>
+/><div align=center>
   
 <img src="https://github.com/user-attachments/assets/f2505048-f4d8-44aa-b038-e89bf38e2d41" />
 
