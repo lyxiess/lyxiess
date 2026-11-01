@@ -4,7 +4,7 @@
 
 <h1>${\color{#FFE5F3}˚₊‧꒰১ K4tt ໒꒱ ‧₊˚}$</h1>
 
-<div align=left>
+<div align=center>
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
