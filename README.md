@@ -1,13 +1,14 @@
 <div align=center>
   
-<img src="https://github.com/user-attachments/assets/f2505048-f4d8-44aa-b038-e89bf38e2d41" />
+<img src="https://github.com/user-attachments/assets/88da7050-af78-428e-b2fa-ab944a30b55d" width=100%/>
 
-<h1>${\color{#FFE5F3}˚₊‧꒰১ K4tt ໒꒱ ‧₊˚}$</h1>
+
+<h1>${\color{#701780}˚₊‧꒰১ K4tt ໒꒱ ‧₊˚}$</h1>
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="420">
-      <img src="https://github.com/user-attachments/assets/e7107f92-a017-47fb-acbe-0b32d20447d0" width="100%"
+      <img src="https://github.com/user-attachments/assets/7bf9e6be-53e2-4728-a879-1417d5c6f4c5" width="100%"
     <td valign="top">
       <h1> ${\color{#9CE6FF}꒰ᐢinfoᐢ꒱₊˚⊹}$ </h1>
       <p> ${\color{#FFD6E8}𓄲  𓏼  Pansexual 𓈒   !}$ </p>
@@ -25,4 +26,4 @@
 
 ${\color{#B3F0FF}Mayo}$ ${\color{#B3F0FF}is}$ ${\color{#B3F0FF}the}$ ${\color{#B3F0FF}goat}$
 
-<img src="https://github.com/user-attachments/assets/f2505048-f4d8-44aa-b038-e89bf38e2d41" />
+<img src="https://github.com/user-attachments/assets/88da7050-af78-428e-b2fa-ab944a30b55d" width=100%/>
