@@ -3,27 +3,29 @@
 <img src="https://github.com/user-attachments/assets/88da7050-af78-428e-b2fa-ab944a30b55d" width=100%/>
 
 
-<h1>${\color{#701780}˚₊‧꒰১ K4tt ໒꒱ ‧₊˚}$</h1>
+<h1>${\color{#f3adff}˚₊‧꒰১ K4tt ໒꒱ ‧₊˚}$</h1>
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="420">
       <img src="https://github.com/user-attachments/assets/7bf9e6be-53e2-4728-a879-1417d5c6f4c5" width="100%"
     <td valign="top">
-      <h1> ${\color{#9CE6FF}꒰ᐢinfoᐢ꒱₊˚⊹}$ </h1>
-      <p> ${\color{#FFD6E8}𓄲  𓏼  Pansexual 𓈒   !}$ </p>
-     <p> ${\color{#FFE5F3}You}$ ${\color{#FFE5F3}can}$ ${\color{#FFE5F3}call}$ ${\color{#FFE5F3}me}$ ${\color{#9CE6FF}Katt}$ ${\color{#FFE5F3}or}$ ${\color{#FF9CCE}Katlyn !}$ </p>
-      <p> ${\color{#FFB8DD}𐔌՞. She/Her .՞𐦯}$
+      <h1> ${\color{#f3adff}꒰ᐢinfoᐢ꒱₊˚⊹}$ </h1>
+      <p> ${\color{#fadeff}𓄲  𓏼  Pansexual 𓈒   !}$ </p>
+     <p> ${\color{#fdf2ff}You}$ ${\color{#fdf2ff}can}$ ${\color{#fdf2ff}call}$ ${\color{#fdf2ff}me}$ ${\color{#f6c4ff}Katt}$ ${\color{#fdf2ff}or}$ ${\color{#f6c4ff}Katlyn !}$ </p>
+      <p> ${\color{#ed87ff}𐔌՞. She/Her .՞𐦯}$
      <br>
-     <p> ${\color{#B3F0FF}"Jade}$ ${\color{#B3F0FF}has}$ ${\color{#B3F0FF}its}$ ${\color{#B3F0FF}flaws,}$ ${\color{#B3F0FF} and}$ ${\color{#B3F0FF}life}$ ${\color{#B3F0FF}its}$ ${\color{#B3F0FF}vicissitudes."}$ </p>
+     <p> ${\color{#e038fc}"HOW}$ ${\color{#e038fc}CAN}$ ${\color{#e038fc}ONE}$ ${\color{#e038fc}ACT}$ ${\color{#e038fc}A}$ ${\color{#e038fc}FOOL}$ ${\color{#e038fc}DURING}$ ${\color{#e038fc}COMBAT."}$ </p>
    <br>
-      <p> ${\color{#9CE6FF}Biograft}$ ${\color{#FFE5F3}N1}$ ${\color{#FFE5F3}Phan !}$ </p>
+      <p> ${\color{#ee85ff}Biograft}$ ${\color{#fdf2ff}N1}$ ${\color{#fdf2ff}Phan !}$ </p>
     </td>
   </tr>
 </table>
 
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%230d1117&border=false&lines=%5B%7B%22text%22%3A%22I+%E2%99%A1+Z.%E1%90%9F%22%2C%22font%22%3A%22Coronet%22%2C%22color%22%3A%22%23ffc2e2%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.06666666666666667%7D%2C%7B%22text%22%3A%22+%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90%E2%9D%A4%EF%B8%8E%E0%BB%92%EA%92%B1+%E2%80%A7%E2%82%8A%22%2C%22font%22%3A%22Cursive%22%2C%22color%22%3A%22%23ffc2e2%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.06666666666666667%7D%5D" alt="Typing SVG" /></a>
+<img src="https://github.com/user-attachments/assets/b5e3f9d1-8089-47fd-ac53-ad54cb1e6b94" width=100%/></a>
 
-${\color{#B3F0FF}Mayo}$ ${\color{#B3F0FF}is}$ ${\color{#B3F0FF}the}$ ${\color{#B3F0FF}goat}$
+${\color{#f3adff}Mayo}$ ${\color{#f3adff}is}$ ${\color{#f3adff}the}$ ${\color{#f3adff}goat}$
 
+<svg width="450" height="150" viewBox="0 0 450 150" xmlns="http://www.w3.org/2000/svg">
+ 
 <img src="https://github.com/user-attachments/assets/88da7050-af78-428e-b2fa-ab944a30b55d" width=100%/>
